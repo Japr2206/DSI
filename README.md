@@ -200,3 +200,5 @@ The repository therefore supports two complementary reading modes:
 
 - **GitHub preview mode** for static inspection with visible outputs,
 - **Colab mode** for interactive inspection and execution.
+
+- **Zenodo archive (versioned release)**: https://zenodo.org/records/19009427
