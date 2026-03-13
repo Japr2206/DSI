@@ -20,7 +20,7 @@ This is the compiled manuscript associated with the repository. It should be con
 - the interpretation of the results,
 - and the discussion of the findings.
 
-### `paper_outputs_from_code.zip`
+### `Paper outputs_from_code.zip`
 
 This compressed archive contains the generated outputs produced by the main notebook. Depending on the run, these outputs may include:
 
